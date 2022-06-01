@@ -1,4 +1,4 @@
-### Olá! Eu sou o Josué Bruno 🖐🏽
+<!--### Olá! Eu sou o Josué Bruno 🖐🏽-->
 
 
   
