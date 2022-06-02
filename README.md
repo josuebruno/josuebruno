@@ -8,7 +8,7 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://mobile.twitter.com/JosueSBruno) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josuebruno&show_icons=true&theme=highcontrast)
+![JosueBruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=josuebruno&show_icons=true&theme=highcontrast)
 
 ## Tecnologias 
 
